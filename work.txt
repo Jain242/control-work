@@ -1,0 +1,63 @@
+       touch Домашние животные
+       touch Вьючные животные
+      ls
+   83  cat Домашние животные
+   84  ды
+   85  ls
+   86  cat Вьючные животные
+   87  ды
+   88  ls
+   89  nano Вьючные животные
+   90  ls
+   91  cd hwendblock
+   92  ls
+   93  rm Вьючные
+   94  ls
+   95  none Домашние животные
+   96  nano Домашние жтвотные
+   97  nano Домашние животные
+   98  ls
+   99  nano Вьючные животные
+  100  nano Домашние животные
+  101  cat "Домашние животные" "Вьючные животные" > "Друзья человека"
+  102  ls
+  103  nano Друзья человека
+  104  cat Домашние животные Вьючные животные > Друзья_человека
+  105  nano Друзья_человека
+  106  mv "Друзья человека" "Друзья_человека"
+  107  mv Друзья_человека Друзья_человека1
+  108  ls
+  109  mkdir Мои_животные
+  110  mv Друзья_человека1 Мои_животные/
+  111  ды
+  112  ls
+  113  cd Мои_животные
+  114  ls
+  115  sudo apt-get update
+  116  sudo apt-get install software-properties-common
+  117  add-apt-repository mysql-apt-config
+  118  apt-get update
+  119  apt-get install mysql-server
+  120  mysql -u root -p
+  121  dpkg -i apache2
+  122  dpkg -i flashpluginnonfree_2.8.2+squeeze1_i386.deb
+  123  dpkg -i flashpluginnonfree_2.8.2
+  124  dpkg -l 
+  125  az
+  126  cd ..
+  127  ls
+  128  cd
+  129  ls
+  130  cd snap
+  131  ls
+  132  cd gb
+  133  cd /gb
+  134  cd home
+  135  cd /home
+  136  ls
+  137  cd gb
+  138  ls
+  139  cd Загрузки
+  140  dpkg -i telegram-desktop_1.5.11-1_arm64.deb
+  144  dpkg -r telegram-desktop
+  145  history > work1.txt
